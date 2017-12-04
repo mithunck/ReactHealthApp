@@ -1,0 +1,44 @@
+@import '~antd/dist/antd.css';
+
+.Profile {
+  min-height:100%;
+  overflow: hidden;
+  background-color:#284C71;
+}
+
+.Profile-header {
+  color: #ffffff;
+  height: 30vh;
+}
+
+.Profile-middle {
+  text-align: center;
+  color: #ffffff;
+  height: 30vh;
+}
+.box{
+  border-right: 1px solid #586C8A; 
+  border-bottom: 1px solid #586C8A; 
+  height: 15vh;
+  display: table;
+
+}
+.boxcontent {
+    display: table-cell;
+    vertical-align: middle;
+}
+.Bigtext{
+  font-size: x-large;
+}
+.smalltext{
+    font-size: small;
+    color:#C9D3E1;
+}
+.Profile-intro {
+  margin-top: 50px;
+  font-size:  xx-large;
+}
+.Profile-bottom{
+  width:100%;
+  height: 40vh;
+}

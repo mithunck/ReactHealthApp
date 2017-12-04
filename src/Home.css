@@ -1,0 +1,41 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  min-height:100%;
+  overflow: hidden;
+}
+
+.App-header {
+  background-color: #ffffff;
+  height: 20vh;
+  padding: 20px;
+  color: #000000;
+}
+.App-nav{
+    height: 8vh;
+}
+.App-avatar {
+  float:right;
+}
+.App-middle {
+  text-align: center;
+  overflow: hidden;
+  height: 45vh;
+}
+.cardbox{
+  width: 50%;
+  height: 22vh;
+
+}
+.Bigtext{
+  font-size: xx-large;
+}
+.App-intro {
+  font-size: large;
+  height: 8vh;
+}
+.App-bottom{
+  width:100%;
+  font-size: x-large;
+  height: 35vh;
+}
